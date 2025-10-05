@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ec035333-6118-41dc-b856-f9e0837cb818" width="400px" alt="commit gif looping" />
+  <img src="https://github.com/user-attachments/assets/ec035333-6118-41dc-b856-f9e0837cb818" width="40%" alt="commit gif looping" />
 </p>
 
 ---
@@ -36,7 +36,7 @@
 ### 💻 Tech Stack Highlights
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alison-Gabriel&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alison-Gabriel&theme=github_dark&hide_border=true&layout=compact&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
 
 ---
@@ -44,12 +44,13 @@
 ### 🟩 Latest Commit Energy
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Alison-Gabriel&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Alison-Gabriel&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
 
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
 </p>
+
 
 
 
