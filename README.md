@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmprM2Fod3diMTk1bnVmdTV4amRpb3ozNjBuaDJmaHo4M2c2OHpvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4ExkAvRpVQGB0NMe0/giphy.gif" width="600px" alt="commit gif looping" />
+  <img src="https://github.com/user-attachments/assets/ec035333-6118-41dc-b856-f9e0837cb818" width="600px" alt="commit gif looping" />
 </p>
 
 ---
@@ -50,5 +50,6 @@
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
 </p>
+
 
 
