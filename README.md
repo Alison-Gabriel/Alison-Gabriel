@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ec035333-6118-41dc-b856-f9e0837cb818" width="600px" alt="commit gif looping" />
+  <img src="https://github.com/user-attachments/assets/ec035333-6118-41dc-b856-f9e0837cb818" width="400px" alt="commit gif looping" />
 </p>
 
 ---
@@ -50,6 +50,7 @@
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
 </p>
+
 
 
 
