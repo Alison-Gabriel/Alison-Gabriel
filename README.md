@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" alt="Redes neurais Github" src="https://github.com/user-attachments/assets/d7e4a809-5afa-43e5-9c4d-fb49c9c7ae61" />
+  <img width="40%" alt="Redes neurais Github" src="https://github.com/user-attachments/assets/d7e4a809-5afa-43e5-9c4d-fb49c9c7ae61" />
 </p>
 
 ---
@@ -50,6 +50,7 @@
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
 </p>
+
 
 
 
